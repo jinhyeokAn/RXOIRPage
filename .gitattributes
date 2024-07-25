@@ -2,12 +2,3 @@
 * text=auto
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
-skillVideo/240723_BrainHealthPro.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/AI_Automatic_Opening_and_Closing_Device_Korean.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/AI_Home_Appliances_Korean.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/AI_Topic_Detection_System.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/Carbon_Monoxide_Data_Collection_Using_Supercomputers.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/Drone_Video_Shooting.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/D_MET_English_Subtitles.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/Facial_Recognition_Visitor_Record_System.mp4 filter=lfs diff=lfs merge=lfs -text
-skillVideo/Hand_Operated_Fan_Control_System.mp4 filter=lfs diff=lfs merge=lfs -text
